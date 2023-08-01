@@ -1,6 +1,6 @@
 body {
   text-align: center;
-  background-color: #283149;
+  background-color: #DAF7A6;
 }
 
 h1 {
@@ -49,7 +49,7 @@ footer {
 }
 
 .game-over {
-  background-color: red;
+  background-color: #99FF00;
   opacity: 0.8;
 }
 
